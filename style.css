@@ -1,0 +1,94 @@
+#F1{color: rgb(99, 234, 189);
+    font-size: 65px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+ font-family: fantasy;
+}
+#N8{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    background-color: rgb(220, 231, 245);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#IMG{
+    display: flex;
+    justify-content:center;
+}
+#MH{
+    background-color: aquamarine;
+    color: black;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+#P1{
+    width: 350px;
+    border: green double;
+    font-size: 30px;
+    margin: 20px;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+#P2{
+    width: 350px;
+    border: green double;
+    font-size: 30px;
+    margin: 20px;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.PN{
+    display: flex;
+    justify-content: space-around;    
+}
+#FPA{
+    background-color: rgb(195, 244, 222);
+    width: 230px;
+    border: rgb(193, 178, 178) solid;
+    font-size: 20px;
+    height: 450px;
+}
+#FDO{
+    background-color: rgb(195, 244, 222);
+    width: 230px;
+    border: rgb(193, 178, 178) solid;
+    font-size: 20px;
+    height: 450px;
+}
+#FCL{
+    background-color: rgb(195, 244, 222);
+    width: 230px;
+    border: rgb(193, 178, 178) solid;
+    font-size: 20px;
+    height: 450px;
+}
+
+.IMC{
+    width: 25%;
+    height: auto;
+}
+#AIT{
+    margin: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+#P3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    border: rgb(231, 212, 212) double;
+    background-color: rgb(194, 239, 239);
+    display: flex;
+    justify-content: center;
+
+}
+#LI{
+    font-size: 40px;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+}
